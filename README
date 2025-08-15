@@ -1,0 +1,8 @@
+i found a error from the "QQmusic for linux Debian"
+suddenly, you cannot start it.
+and it echo"[24247:0815/152846.873581:FATAL:gpu_data_manager_impl_private.cc(1034)] The display compositor is frequently crashing. Goodbye."
+this time you should try to use "qqmusic --no-sandbox" to run it.
+我从“适用于Linux Debian的QQ音乐”中找到了一个错误
+突然的，你无法启动它
+并且它发送回显“[24247:0815/152846.873581:FATAL:gpu_data_manager_impl_private.cc(1034)] The display compositor is frequently crashing. Goodbye.”
+这时你应该尝试用“qqmusic --no-sandbox”来启动它
